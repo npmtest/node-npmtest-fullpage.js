@@ -1,21 +1,21 @@
 <svg height="286" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="286" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 07:08:06 +0000   547606 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 07:08:06 +0000     1098 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 07:08:06 +0000    53137 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 07:08:06 +0000     5218 bytes  dist/jquery.fullpage.css</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 07:08:06 +0000    35497 bytes  dist/jquery.fullpage.extensions.min.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 07:08:06 +0000   120622 bytes  dist/jquery.fullpage.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 07:08:06 +0000     3776 bytes  dist/jquery.fullpage.min.css</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 07:08:06 +0000     7711 bytes  dist/jquery.fullpage.min.css.map</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 07:08:06 +0000    30280 bytes  dist/jquery.fullpage.min.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 07:08:06 +0000   169886 bytes  dist/jquery.fullpage.min.js.map</tspan>
-<tspan x="10" y="186"> 10.  2017-04-20 07:08:06 +0000        0 bytes  index.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-20 07:08:06 +0000     2701 bytes  package.json</tspan>
-<tspan x="10" y="218"> 12.  2017-04-20 07:08:06 +0000    12927 bytes  vendors/jquery.easings.min.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-20 07:08:06 +0000     4860 bytes  vendors/jquery.slimscroll.min.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-20 07:08:06 +0000    66882 bytes  vendors/scrolloverflow.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-20 07:08:06 +0000    33011 bytes  vendors/scrolloverflow.min.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 07:09:10 +0000   547606 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 07:09:10 +0000     1098 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 07:09:10 +0000    53137 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 07:09:10 +0000     5218 bytes  dist/jquery.fullpage.css</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 07:09:10 +0000    35497 bytes  dist/jquery.fullpage.extensions.min.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 07:09:10 +0000   120622 bytes  dist/jquery.fullpage.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 07:09:10 +0000     3776 bytes  dist/jquery.fullpage.min.css</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 07:09:10 +0000     7711 bytes  dist/jquery.fullpage.min.css.map</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 07:09:10 +0000    30280 bytes  dist/jquery.fullpage.min.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 07:09:10 +0000   169886 bytes  dist/jquery.fullpage.min.js.map</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 07:09:10 +0000        0 bytes  index.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 07:09:10 +0000     2701 bytes  package.json</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 07:09:10 +0000    12927 bytes  vendors/jquery.easings.min.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 07:09:10 +0000     4860 bytes  vendors/jquery.slimscroll.min.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 07:09:10 +0000    66882 bytes  vendors/scrolloverflow.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 07:09:10 +0000    33011 bytes  vendors/scrolloverflow.min.js</tspan>
 </text>
 </svg>
